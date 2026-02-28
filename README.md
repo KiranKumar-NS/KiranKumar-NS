@@ -42,9 +42,9 @@
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KiranKumar-NS&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KiranKumar-NS&theme=default" alt="GitHub Stats" height="170" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KiranKumar-NS&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KiranKumar-NS&theme=default" alt="Top Languages" height="170" />
 </p>
 
 <p align="center">
