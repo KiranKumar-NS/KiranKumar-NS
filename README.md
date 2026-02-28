@@ -1,23 +1,65 @@
-## Hi there 👋 It's me, Kiran Kumar
+# Hi, I'm Kiran Kumar
 
-Software Developer @ Medical Electronic Systems
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
-- 🌱 I’m currently learning DSA
-- 💬 Ask me about Tech
-- 📫 How to reach me :
-<br />  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/kiran-kumar-ns70)
-- 😄 Pronouns: Techie
-  
+### Software Developer | Building software that solves real-world problems
 
-### I code in
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/sass.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" />
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/google-firebase-console.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
-<img width="48" height="48" src="https://img.icons8.com/color/48/flutter.png" alt="flutter"/>
+---
 
+### About Me
 
+- Working as a Software Developer at **Medical Electronic Systems**, Chennai
+- Currently sharpening my skills in **Data Structures & Algorithms**
+- I build web and mobile applications using modern frameworks
+- Active on [LeetCode](https://leetcode.com/u/KiranKumar-NS/) for problem solving practice
+- Open to new opportunities and collaborating on interesting projects
 
+---
 
+### Tech Stack
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/KiranKumar-NS?theme=dark&font=Marcellus&ext=contest)
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,angular,nodejs,firebase,mongodb,flutter,dart,git,github" />
+  </a>
+</p>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KiranKumar-NS&bg_color=222021&color=f6eff5&line=4c9e70&point=f6eeee&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+---
+
+### Freelance Projects
+
+**[Roofrix](https://roofrix.com/)** — B2B SaaS Platform for Roof Measurement Reports
+- Built a bed order management system with real-time pricing, shopping cart, role-based dashboards, in-app messaging, and Leaflet Maps integration
+- Tech: Angular, Firebase (Auth, Firestore, Storage, Hosting), Node.js, Express, TypeScript
+- Deployed on Firebase Hosting & Vercel
+- Upcoming: Stripe payments, invoice PDF generation, admin analytics
+
+**[Aaron Springs LLP](https://aaronspringsllp.com/home)** — Business Website
+- Developed responsive web application with Angular and backend email integration using Node.js & Express
+- Managed domain registration (GoDaddy) and hosting deployments on Vercel & Firebase
+- Collaborated directly with clients to deliver tailored content across multiple industries
+
+---
+
+### GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KiranKumar-NS&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KiranKumar-NS&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=KiranKumar-NS&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+### Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kiran-kumar-ns70/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kirankumarylacc@gmail.com)
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=KiranKumar-NS&color=grey&style=flat-square" alt="Profile Views" />
+</p>
